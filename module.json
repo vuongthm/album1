@@ -1,0 +1,17 @@
+{
+  "id": "album1",
+  "adapter": "albums",
+  "title": {
+    "vi": "Góc ảnh · Đại Lãnh",
+    "en": "Photo journal · Đại Lãnh",
+    "ja": "写真日記 · ダイラン",
+    "zh": "影像日记 · 大兰"
+  },
+  "description": {
+    "vi": "Ảnh và video trong các bộ sưu tập cá nhân.",
+    "en": "Photographs and videos from personal collections.",
+    "ja": "個人コレクションの写真と動画。",
+    "zh": "个人收藏中的照片与视频。"
+  },
+  "order": 95
+}
